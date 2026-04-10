@@ -1,0 +1,24 @@
+<svg width="32" height="32" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="white"/>
+  
+  <!-- Center diamond -->
+  <polygon points="50,30 70,50 50,70 30,50" fill="#A67C5B"/>
+  
+  <!-- Inner diamond -->
+  <polygon points="50,40 60,50 50,60 40,50" fill="white"/>
+  
+  <!-- Center small square -->
+  <rect x="47" y="47" width="6" height="6" fill="#A67C5B"/>
+  
+  <!-- Top shape -->
+  <polygon points="50,5 65,30 35,30" fill="#A67C5B"/>
+  
+  <!-- Bottom shape -->
+  <polygon points="50,95 65,70 35,70" fill="#A67C5B"/>
+  
+  <!-- Left shape -->
+  <polygon points="5,50 30,65 30,35" fill="#A67C5B"/>
+  
+  <!-- Right shape -->
+  <polygon points="95,50 70,65 70,35" fill="#A67C5B"/>
+</svg>
